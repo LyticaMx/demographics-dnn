@@ -1,9 +1,10 @@
 # demographics-dnn
 
 ## usage
-'''
+
+```
 python3 demo.py --input selfie.mp4
-'''
+```
 
 Notes on argument parameters
 Some labels, dimensions and channels must be specified depending on the following observations:
